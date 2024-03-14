@@ -1,6 +1,6 @@
 /*
- * This file is part of Compass.
- * Copyright (C) 2023 Philipp Bobek <philipp.bobek@mailbox.org>
+ * This file is part of Awesome Compass.
+ * Copyright (C) 2024 Shivendra K Dubey <vaibhavtech2012@gmail.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

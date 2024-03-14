@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-  ~ This file is part of Compass.
-  ~ Copyright (C) 2023 Philipp Bobek <philipp.bobek@mailbox.org>
+  ~ This file is part of Awesome Compass.
+  ~ Copyright (C) 2024 Shivendra K Dubey <vaibhavtech2012@gmail.com>
   ~
   ~ This program is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by
@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <string name="compass">Kompas</string>
+    <string name="compass">Sjajno Kompas</string>
 
     <string name="sensor_status">Status senzora</string>
     <string name="lock_screen_rotation">Zaključaj rotaciju ekrana</string>

@@ -5,15 +5,15 @@ plugins {
 }
 
 android {
-    namespace = "com.bobek.compass"
+    namespace = "com.vaibhavtech.compass"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.bobek.compass"
+        applicationId = "com.vaibhavtech.compass"
         minSdk = 23
         targetSdk = 34
-        versionCode = 19
-        versionName = "1.13.1"
+        versionCode = 1
+        versionName = "1.0.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {

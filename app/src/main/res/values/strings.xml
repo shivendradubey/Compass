@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-  ~ This file is part of Compass.
-  ~ Copyright (C) 2023 Philipp Bobek <philipp.bobek@mailbox.org>
+  ~ This file is part of Awesome Compass.
+  ~ Copyright (C) 2024 Shivendra K Dubey <vaibhavtech2012@gmail.com>
   ~
   ~ This program is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by
@@ -19,7 +19,7 @@
   -->
 
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="compass">Compass</string>
+    <string name="compass">Awesome Compass</string>
 
     <string name="sensor_status">Sensor status</string>
     <string name="lock_screen_rotation">Lock screen rotation</string>
@@ -86,7 +86,7 @@
 
     <string name="source_code_name" translatable="false">GitHub</string>
     <string name="license_name" translatable="false">GNU GPLv3</string>
-    <string name="author_name" translatable="false">Philipp Bobek</string>
+    <string name="author_name" translatable="false">Shivendra K Dubey</string>
 
     <string name="zero_degrees" translatable="false">0°</string>
     <string name="degrees" translatable="false">%1$d°</string>
